@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: practical-codes
+Version: 0.1
+Summary: A package with two DFA implementations
+Author: Your Name
+Author-email: your.email@example.com
+Classifier: Programming Language :: Python :: 3
+Requires-Python: >=3.6

@@ -1,0 +1,6 @@
+README.md
+setup.py
+practical_codes.egg-info/PKG-INFO
+practical_codes.egg-info/SOURCES.txt
+practical_codes.egg-info/dependency_links.txt
+practical_codes.egg-info/top_level.txt
